@@ -6,19 +6,19 @@ This repository contains course materials for ISYS 312U Predictive Analytics, fo
 
 ### Lesson 1: Introduction to Prescriptive Analytics
 - **GitHub**: [module2-lesson1-notebook.ipynb](Modules/module2-lesson1-notebook.ipynb)
-- **Google Colab**: [Open in Colab](https://colab.research.google.com/github/[your-username]/prescriptive-analytics/blob/main/Modules/module2-lesson1-notebook.ipynb)
+- **Google Colab**: [Open in Colab](https://colab.research.google.com/github/scottalanturner/prescriptive-analytics/blob/main/Modules/module2-lesson1-notebook.ipynb)
 
 ### Lesson 2: Optimization Models
 - **GitHub**: [module2-lesson2-notebook.ipynb](Modules/module2-lesson2-notebook.ipynb)
-- **Google Colab**: [Open in Colab](https://colab.research.google.com/github/[your-username]/prescriptive-analytics/blob/main/Modules/module2-lesson2-notebook.ipynb)
+- **Google Colab**: [Open in Colab](https://colab.research.google.com/github/scottalanturner/prescriptive-analytics/blob/main/Modules/module2-lesson2-notebook.ipynb)
 
 ### Lesson 3: Linear Programming
 - **GitHub**: [module2-lesson3-notebook.ipynb](Modules/module2-lesson3-notebook.ipynb)
-- **Google Colab**: [Open in Colab](https://colab.research.google.com/github/[your-username]/prescriptive-analytics/blob/main/Modules/module2-lesson3-notebook.ipynb)
+- **Google Colab**: [Open in Colab](https://colab.research.google.com/github/scottalanturner/prescriptive-analytics/blob/main/Modules/module2-lesson3-notebook.ipynb)
 
 ### Lesson 4: Advanced Optimization Techniques
 - **GitHub**: [module2-lesson4-notebook.ipynb](Modules/module2-lesson4-notebook.ipynb)
-- **Google Colab**: [Open in Colab](https://colab.research.google.com/github/[your-username]/prescriptive-analytics/blob/main/Modules/module2-lesson4-notebook.ipynb)
+- **Google Colab**: [Open in Colab](https://colab.research.google.com/github/scottalanturner/prescriptive-analytics/blob/main/Modules/module2-lesson4-notebook.ipynb)
 
 ## Getting Started
 
@@ -31,7 +31,7 @@ Click on any of the GitHub links above to view the notebooks directly in GitHub'
 3. You can run, edit, and save your work in the cloud
 
 ### Option 3: Local Development
-1. Clone this repository: `git clone https://github.com/[your-username]/prescriptive-analytics.git`
+1. Clone this repository: `git clone https://github.com/scottalanturner/prescriptive-analytics.git`
 2. Install Jupyter: `pip install jupyter`
 3. Navigate to the Modules directory and run: `jupyter notebook`
 
