@@ -2,23 +2,17 @@
 
 This repository contains course materials for ISYS 312U Predictive Analytics, focusing on prescriptive analytics concepts and applications.
 
-## Module 2: Prescriptive Analytics Fundamentals
+## Course Modules
 
-### Lesson 1: Introduction to Prescriptive Analytics
-- **GitHub**: [module2-lesson1-notebook.ipynb](Modules/module2-lesson1-notebook.ipynb)
-- **Google Colab**: [Open in Colab](https://colab.research.google.com/github/scottalanturner/prescriptive-analytics/blob/main/Modules/module2-lesson1-notebook.ipynb)
+### Module 2: Prescriptive Analytics Fundamentals
+- **Overview**: [Module 2 README](Module2/README.md)
+- **GitHub**: [Module 2 Directory](Module2/)
+- **Google Colab**: [Open Module 2 in Colab](https://colab.research.google.com/github/scottalanturner/prescriptive-analytics/blob/main/Module2/)
 
-### Lesson 2: Optimization Models
-- **GitHub**: [module2-lesson2-notebook.ipynb](Modules/module2-lesson2-notebook.ipynb)
-- **Google Colab**: [Open in Colab](https://colab.research.google.com/github/scottalanturner/prescriptive-analytics/blob/main/Modules/module2-lesson2-notebook.ipynb)
-
-### Lesson 3: Linear Programming
-- **GitHub**: [module2-lesson3-notebook.ipynb](Modules/module2-lesson3-notebook.ipynb)
-- **Google Colab**: [Open in Colab](https://colab.research.google.com/github/scottalanturner/prescriptive-analytics/blob/main/Modules/module2-lesson3-notebook.ipynb)
-
-### Lesson 4: Advanced Optimization Techniques
-- **GitHub**: [module2-lesson4-notebook.ipynb](Modules/module2-lesson4-notebook.ipynb)
-- **Google Colab**: [Open in Colab](https://colab.research.google.com/github/scottalanturner/prescriptive-analytics/blob/main/Modules/module2-lesson4-notebook.ipynb)
+### Module 3: Data Cleaning
+- **Overview**: [Module 3 README](Module%203%20Data%20Cleaning/README.md)
+- **GitHub**: [Module 3 Directory](Module%203%20Data%20Cleaning/)
+- **Google Colab**: [Open Module 3 in Colab](https://colab.research.google.com/github/scottalanturner/prescriptive-analytics/blob/main/Module%203%20Data%20Cleaning/)
 
 ## Getting Started
 
@@ -33,7 +27,7 @@ Click on any of the GitHub links above to view the notebooks directly in GitHub'
 ### Option 3: Local Development
 1. Clone this repository: `git clone https://github.com/scottalanturner/prescriptive-analytics.git`
 2. Install Jupyter: `pip install jupyter`
-3. Navigate to the Modules directory and run: `jupyter notebook`
+3. Navigate to the desired module directory and run: `jupyter notebook`
 
 ## Course Overview
 
