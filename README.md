@@ -14,6 +14,11 @@ This repository contains course materials for ISYS 312U Predictive Analytics, fo
 - **GitHub**: [Module 3 Directory](Module%203%20Data%20Cleaning/)
 - **Google Colab**: [Open Module 3 in Colab](https://colab.research.google.com/github/scottalanturner/prescriptive-analytics/blob/main/Module%203%20Data%20Cleaning/)
 
+### Module 4: Data Cleaning II
+- **Overview**: [Module 4 README](Module%204%20Data%20Cleaning%20II/README.md)
+- **GitHub**: [Module 4 Directory](Module%204%20Data%20Cleaning%20II/)
+- **Google Colab**: [Open Module 4 in Colab](https://colab.research.google.com/github/scottalanturner/prescriptive-analytics/blob/main/Module%204%20Data%20Cleaning%20II/)
+
 ## Getting Started
 
 ### Option 1: GitHub
