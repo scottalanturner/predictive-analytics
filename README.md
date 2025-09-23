@@ -19,6 +19,11 @@ This repository contains course materials for ISYS 312U Predictive Analytics, fo
 - **GitHub**: [Module 4 Directory](Module%204%20Data%20Cleaning%20II/)
 
 
+### Module 5: Exploratory Data Analysis (EDA)
+- **Overview**: [Module 5 README](Module%205%20EDA/README.md)
+- **GitHub**: [Module 5 Directory](Module%205%20EDA/)
+
+
 ## Getting Started
 
 ### Option 1: GitHub
