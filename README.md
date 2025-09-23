@@ -1,10 +1,10 @@
-# Prescriptive Analytics
+# Predictive Analytics
 
-This repository contains course materials for ISYS 312U Predictive Analytics, focusing on prescriptive analytics concepts and applications.
+This repository contains course materials for ISYS 312U Predictive Analytics, focusing on predictive analytics concepts and applications.
 
 ## Course Modules
 
-### Module 2: Prescriptive Analytics Fundamentals
+### Module 2: Predictive Analytics Fundamentals
 - **Overview**: [Module 2 README](Module2/README.md)
 - **GitHub**: [Module 2 Directory](Module2/)
 
@@ -35,13 +35,13 @@ Click on any of the GitHub links above to view the notebooks directly in GitHub'
 3. You can run, edit, and save your work in the cloud
 
 ### Option 3: Local Development
-1. Clone this repository: `git clone https://github.com/scottalanturner/prescriptive-analytics.git`
+1. Clone this repository: `git clone https://github.com/scottalanturner/predictive-analytics.git`
 2. Install Jupyter: `pip install jupyter`
 3. Navigate to the desired module directory and run: `jupyter notebook`
 
 ## Course Overview
 
-This course covers the fundamental concepts of prescriptive analytics, including:
+This course covers the fundamental concepts of predictive analytics, including:
 - Optimization modeling
 - Linear programming
 - Decision analysis

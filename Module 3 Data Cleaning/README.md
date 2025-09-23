@@ -6,15 +6,15 @@ This module focuses on essential data cleaning techniques and best practices for
 
 ### Lesson 1: Introduction to Data Cleaning
 - **GitHub**: [module3-lesson01.ipynb](module3-lesson01.ipynb)
-- **Google Colab**: [Open in Colab](https://colab.research.google.com/github/scottalanturner/prescriptive-analytics/blob/main/Module%203%20Data%20Cleaning/module3-lesson01.ipynb)
+- **Google Colab**: [Open in Colab](https://colab.research.google.com/github/scottalanturner/predictive-analytics/blob/main/Module%203%20Data%20Cleaning/module3-lesson01.ipynb)
 
 ### Lesson 2: Handling Missing Data
 - **GitHub**: [module3-lesson2.ipynb](module3-lesson2.ipynb)
-- **Google Colab**: [Open in Colab](https://colab.research.google.com/github/scottalanturner/prescriptive-analytics/blob/main/Module%203%20Data%20Cleaning/module3-lesson2.ipynb)
+- **Google Colab**: [Open in Colab](https://colab.research.google.com/github/scottalanturner/predictive-analytics/blob/main/Module%203%20Data%20Cleaning/module3-lesson2.ipynb)
 
 ### Lesson 3: Data Validation and Quality Assurance
 - **GitHub**: [module3-lesson3.ipynb](module3-lesson3.ipynb)
-- **Google Colab**: [Open in Colab](https://colab.research.google.com/github/scottalanturner/prescriptive-analytics/blob/main/Module%203%20Data%20Cleaning/module3-lesson3.ipynb)
+- **Google Colab**: [Open in Colab](https://colab.research.google.com/github/scottalanturner/predictive-analytics/blob/main/Module%203%20Data%20Cleaning/module3-lesson3.ipynb)
 
 ## Getting Started
 
@@ -27,7 +27,7 @@ Click on any of the GitHub links above to view the notebooks directly in GitHub'
 3. You can run, edit, and save your work in the cloud
 
 ### Option 3: Local Development
-1. Clone this repository: `git clone https://github.com/scottalanturner/prescriptive-analytics.git`
+1. Clone this repository: `git clone https://github.com/scottalanturner/predictive-analytics.git`
 2. Install Jupyter: `pip install jupyter`
 3. Navigate to the Module 3 Data Cleaning directory and run: `jupyter notebook`
 

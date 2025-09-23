@@ -2,7 +2,7 @@
 
 ## Files
 - **GitHub**: [AddressMissingData.ipynb](AddressMissingData.ipynb)
-- **Google Colab**: [Open in Colab](https://colab.research.google.com/github/scottalanturner/prescriptive-analytics/blob/main/Assignment%2001%20Address%20Missing%20Data/AddressMissingData.ipynb)
+- **Google Colab**: [Open in Colab](https://colab.research.google.com/github/scottalanturner/predictive-analytics/blob/main/Assignment%2001%20Address%20Missing%20Data/AddressMissingData.ipynb)
 
 ## Instructions
 - First, create an account on GitHub
