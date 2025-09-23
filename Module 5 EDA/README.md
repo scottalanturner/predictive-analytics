@@ -15,9 +15,27 @@ This module provides comprehensive training in Exploratory Data Analysis, coveri
 - Familiarity with pandas and matplotlib
 - Understanding of basic statistical concepts
 
+## Getting Started
+
+### Option 1: GitHub
+Click on any of the GitHub links above to view the notebooks directly in GitHub's notebook viewer.
+
+### Option 2: Google Colab
+1. Click on any "Open in Colab" link above
+2. The notebook will open in Google Colab
+3. You can run, edit, and save your work in the cloud
+
+### Option 3: Local Development
+1. Clone this repository: `git clone https://github.com/scottalanturner/predictive-analytics.git`
+2. Install Jupyter: `pip install jupyter`
+3. Navigate to the Module 5 EDA directory and run: `jupyter notebook`
+
 ## 📖 Notebook Contents
 
 ### 1. [EDA Section 1: Fundamentals](eda-section1-fundamentals.ipynb)
+- **GitHub**: [eda-section1-fundamentals.ipynb](eda-section1-fundamentals.ipynb)
+- **Google Colab**: [Open in Colab](https://colab.research.google.com/github/scottalanturner/predictive-analytics/blob/main/Module%205%20EDA/eda-section1-fundamentals.ipynb)
+
 **Focus:** EDA Workflow and Visualization Templates
 
 **Key Topics:**
@@ -32,6 +50,9 @@ This module provides comprehensive training in Exploratory Data Analysis, coveri
 - Build reusable analysis templates for efficiency
 
 ### 2. [EDA Section 2: Core Analysis Techniques](eda-section2-notebook.ipynb)
+- **GitHub**: [eda-section2-notebook.ipynb](eda-section2-notebook.ipynb)
+- **Google Colab**: [Open in Colab](https://colab.research.google.com/github/scottalanturner/predictive-analytics/blob/main/Module%205%20EDA/eda-section2-notebook.ipynb)
+
 **Focus:** Univariate and Bivariate Analysis
 
 **Key Topics:**
@@ -46,6 +67,9 @@ This module provides comprehensive training in Exploratory Data Analysis, coveri
 - Identify relationships between variables
 
 ### 3. [EDA Section 3: Statistical Analysis & Pattern Detection](eda-section3-notebook.ipynb)
+- **GitHub**: [eda-section3-notebook.ipynb](eda-section3-notebook.ipynb)
+- **Google Colab**: [Open in Colab](https://colab.research.google.com/github/scottalanturner/predictive-analytics/blob/main/Module%205%20EDA/eda-section3-notebook.ipynb)
+
 **Focus:** Advanced Statistical Techniques
 
 **Key Topics:**
@@ -61,6 +85,9 @@ This module provides comprehensive training in Exploratory Data Analysis, coveri
 - Detect anomalies and hidden patterns in data
 
 ### 4. [EDA Section 4: Communication & Storytelling](eda-section4-notebook.ipynb)
+- **GitHub**: [eda-section4-notebook.ipynb](eda-section4-notebook.ipynb)
+- **Google Colab**: [Open in Colab](https://colab.research.google.com/github/scottalanturner/predictive-analytics/blob/main/Module%205%20EDA/eda-section4-notebook.ipynb)
+
 **Focus:** Data Visualization and Storytelling
 
 **Key Topics:**
@@ -78,6 +105,9 @@ This module provides comprehensive training in Exploratory Data Analysis, coveri
 - Design effective dashboards and reports
 
 ### 5. [Anscombe's Quartet: Why Visualization Matters](anscombes_quartet_notebook.ipynb)
+- **GitHub**: [anscombes_quartet_notebook.ipynb](anscombes_quartet_notebook.ipynb)
+- **Google Colab**: [Open in Colab](https://colab.research.google.com/github/scottalanturner/predictive-analytics/blob/main/Module%205%20EDA/anscombes_quartet_notebook.ipynb)
+
 **Focus:** The Critical Importance of Data Visualization
 
 **Key Topics:**
