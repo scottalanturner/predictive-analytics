@@ -24,6 +24,21 @@ This repository contains course materials for ISYS 312U Predictive Analytics, fo
 - **GitHub**: [Module 5 Directory](Module%205%20EDA/)
 
 
+### Module 6: Statistical Thinking
+- **Overview**: [Module 6 README](Module%206%20Statistical%20Thinking/README.md)
+- **GitHub**: [Module 6 Directory](Module%206%20Statistical%20Thinking/)
+
+
+### Module 7: Linear Regression
+- **Overview**: [Module 7 README](Module%207%20Linear%20Regression/README.md)
+- **GitHub**: [Module 7 Directory](Module%207%20Linear%20Regression/)
+
+
+### Module 8: Multiple Regression
+- **Overview**: [Module 8 README](Module%208%20Multiple%20Regression/README.md)
+- **GitHub**: [Module 8 Directory](Module%208%20Multiple%20Regression/)
+
+
 ## Getting Started
 
 ### Option 1: GitHub
