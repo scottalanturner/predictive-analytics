@@ -1,0 +1,20 @@
+{
+  "model_name": "churn_prediction_v1",
+  "version": "1.0.0",
+  "created_date": "2025-10-27T14:07:16.357918",
+  "features": [
+    "tenure",
+    "MonthlyCharges",
+    "TotalCharges",
+    "SeniorCitizen",
+    "Partner",
+    "Dependents"
+  ],
+  "training_samples": 5634,
+  "test_accuracy": 0.7814052519517388,
+  "model_type": "LogisticRegression",
+  "hyperparameters": {
+    "random_state": 42,
+    "max_iter": 1000
+  }
+}
